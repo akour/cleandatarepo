@@ -3,13 +3,7 @@
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 638px">
-<colgroup>
-<col style="width: 165px">
-<col style="width: 72px">
-<col style="width: 190px">
-<col style="width: 211px">
-</colgroup>
+<table class="tg">
   <tr>
     <th class="tg-031e">Variable Name</th>
     <th class="tg-031e">Variable Type</th>
@@ -35,8 +29,8 @@
     <td class="tg-031e">Mean or standard deviation of the triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration</td>
   </tr>
   <tr>
-    <td class="tg-031e">tBodyAccmean()X tBodyAcc-mean()-YtBodyAccmean()-ZtBodyAcc-std()-XtBodyAcc-std()-YtBodyAcc-std()-ZtGravityAcc-mean()-XtGravityAcc-mean()-YtGravityAcc-mean()-ZtGravityAcc-std()-XtGravityAcc-std()-YtGravityAcc-std()-ZtBodyAccJerk-mean()-XtBodyAccJerk-mean()-YtBodyAccJerk-mean()-ZtBodyAccJerk-std()-XtBodyAccJerk-std()-YtBodyAccJerk-std()-ZtBodyGyro-mean()-XtBodyGyro-mean()-YtBodyGyro-mean()-ZtBodyGyro-std()-XtBodyGyro-std()-YtBodyGyro-std()-ZtBodyGyroJerk-mean()-XtBodyGyroJerk-mean()-YtBodyGyroJerk-mean()-ZtBodyGyroJerk-std()-XtBodyGyroJerk-std()-YtBodyGyroJerk-std()-ZtBodyAccMag-mean()tBodyAccMag-std()tGravityAccMag-mean()tGravityAccMag-std()tBodyAccJerkMag-mean()tBodyAccJerkMag-std()tBodyGyroMag-mean()tBodyGyroMag-std()tBodyGyroJerkMag-mean()tBodyGyroJerkMag-std()fBodyAcc-mean()-XfBodyAcc-mean()-YfBodyAcc-mean()-ZfBodyAcc-std()-XfBodyAcc-std()-YfBodyAcc-std()-ZfBodyAccJerk-mean()-XfBodyAccJerk-mean()-YfBodyAccJerk-mean()-ZfBodyAccJerk-std()-XfBodyAccJerk-std()-YfBodyAccJerk-std()-ZfBodyGyro-mean()-XfBodyGyro-mean()-YfBodyGyro-mean()-ZfBodyGyro-std()-XfBodyGyro-std()-YfBodyGyro-std()-ZfBodyAccMag-mean()fBodyAccMag-std()fBodyBodyAccJerkMag-mean()fBodyBodyAccJerkMag-std()fBodyBodyGyroMag-mean()fBodyBodyGyroMag-std()fBodyBodyGyroJerkMag-mean()fBodyBodyGyroJerkMag-std()</td>
-    <td class="tg-031e"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>x</td>
+    <td class="tg-031e">tBodyAccmean()X<br> tBodyAcc-mean()-Y<br>tBodyAccmean()-Z<br>tBodyAcc-std()-X<br>tBodyAcc-std()-Y<br>tBodyAcc-std()-Z<br>tGravityAcc-mean()-X<br>tGravityAcc-mean()-Y<br>tGravityAcc-mean()-Z<br>tGravityAcc-std()-X<br>tGravityAcc-std()-Y<br>tGravityAcc-std()-Z<br>tBodyAccJerk-mean()-X<br>tBodyAccJerk-mean()-Y<br>tBodyAccJerk-mean()-Z<br>tBodyAccJerk-std()-X<br>tBodyAccJerk-std()-Y<br>tBodyAccJerk-std()-Z<br>tBodyGyro-mean()-X<br>tBodyGyro-mean()-Y<br>tBodyGyro-mean()-Z<br>tBodyGyro-std()-X<br>tBodyGyro-std()-Y<br>tBodyGyro-std()-Z<br>tBodyGyroJerk-mean()-X<br>tBodyGyroJerk-mean()-Y<br>tBodyGyroJerk-mean()-Z<br>tBodyGyroJerk-std()-X<br>tBodyGyroJerk-std()-Y<br>tBodyGyroJerk-std()-Z<br>tBodyAccMag-mean()<br>tBodyAccMag-std()<br>tGravityAccMag-mean()<br>tGravityAccMag-std()<br>tBodyAccJerkMag-mean()<br>tBodyAccJerkMag-std()<br>tBodyGyroMag-mean()<br>tBodyGyroMag-std()<br>tBodyGyroJerkMag-mean()<br>tBodyGyroJerkMag-std()<br>fBodyAcc-mean()<br>-XfBodyAcc-mean()<br>-YfBodyAcc-mean()<br>-ZfBodyAcc-std()<br>-XfBodyAcc-std()<br>-YfBodyAcc-std()<br>-ZfBodyAccJerk-mean()<br>-XfBodyAccJerk-mean()<br>-YfBodyAccJerk-mean()<br>-ZfBodyAccJerk-std()<br>-XfBodyAccJerk-std()<br>-YfBodyAccJerk-std()<br>-ZfBodyGyro-mean()<br>-XfBodyGyro-mean()<br>-YfBodyGyro-mean()<br>-ZfBodyGyro-std()<br>-XfBodyGyro-std()<br>-YfBodyGyro-std()<br>-ZfBodyAccMag-mean()<br>fBodyAccMag-std()<br>fBodyBodyAccJerkMag-mean()<br>fBodyBodyAccJerkMag-std()<br>fBodyBodyGyroMag-mean()<br>fBodyBodyGyroMag-std()<br>fBodyBodyGyroJerkMag-mean()<br>fBodyBodyGyroJerkMag-std()<br></td>
+    <td class="tg-031e"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>x</td>
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
